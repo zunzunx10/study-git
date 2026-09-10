@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hi MT
-=======
-hi Ngọc Dũng
->>>>>>> development
+
